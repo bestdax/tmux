@@ -30,7 +30,7 @@ git clone https://github.com/bestdax/tmux ~/.config/tmux
 git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 ```
 
-重载配置文件然后按前导键 I来安装其余的几个插件。
+重载配置文件然后按`前导键 I`来安装其余的几个插件。
 ### Prerequisites
 
 Make sure you have `tmux` installed. You can install `tmux` using Homebrew on macOS:
