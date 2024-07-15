@@ -20,12 +20,15 @@
 ## 状态栏放在上面的考量
 如果放在下面的话，用Vim的时候下面就会显得很拥挤(有Vim的状态栏)。
 
-## Installation
+## 安装
 克隆本仓库到`~/.config/tmux`，如果不是macOS的话请搜索一下配置文件的地址。
 ```
 git clone https://github.com/bestdax/tmux ~/.config/tmux
 ```
 克隆tpm(tmux plugin manager)到`~/.config/tmux/plugins/tpm`
+```
+git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+```
 
 重载配置文件然后按前导键 I来安装其余的几个插件。
 ### Prerequisites
